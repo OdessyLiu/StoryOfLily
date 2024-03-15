@@ -12,10 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 442d62ea0a01a7049b94db5db707b481, type: 3}
   m_Name: getReal3D_Settings
   m_EditorClassIdentifier: 
-  m_autoInitVR: 1
+  m_autoInitVR: 0
   m_logLevel: 2
   m_rpcLogLevel: -1
   m_ignoredErrors:
+  - build_target
   - splashScreen
-  m_config: UBCO_FinalFinal-v2
+  - resizableWindow
+  m_config: editor_config
   m_inputSystemController: 1
