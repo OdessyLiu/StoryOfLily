@@ -370,7 +370,7 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
+  MinDistance: 27.090149
   MaxDistance: 500
   Pan2D: 0
   rolloffMode: 0
@@ -1529,11 +1529,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 76.3934, y: -10.460224}
+  scrollPos: {x: 677.7254, y: 19.002512}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
-  zoom: 0.70190334
+  zoom: 0.70790344
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -1584,7 +1584,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -462.60934
     y: 61.847626
-    width: 114.11139
+    width: 113.56799
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1652,7 +1652,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 3
   indentLevel: 0
-  storyText: 'At 0 Lily is born into a nice, normal family. '
+  storyText: "At 0 Lily is born into a nice, normal family. \n\n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1681,7 +1681,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -289.11166
     y: 61.046017
-    width: 74.21986
+    width: 71.895645
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1740,9 +1740,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 11
   indentLevel: 0
-  storyText: "\n\nLily is too young to remember this period of her life; all she
-    can recall are some fragments of sitting with Tim silently on Mrs. Marriam\u2019s
-    couch, watching some old black and white films on TV until late into the night. "
+  storyText: "Lily is too young to remember this period of her life; all she can
+    recall are some fragments of sitting with Tim silently on Mrs. Marriam\u2019s
+    couch, watching some old black and white films on TV until late into the night.
+    \n\n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1769,9 +1770,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 9
   indentLevel: 0
-  storyText: "\n\nLily\u2019s mother has to take another job at night to keep the
-    family running. When she is not at home, she will ask their neighbor Mrs. Marriam,
-    a widowed, weird, old lady, to take care of the kids. "
+  storyText: "Lily\u2019s mother has to take another job at night to keep the family
+    running. When she is not at home, she will ask their neighbor Mrs. Marriam, a
+    widowed, weird, old lady, to take care of the kids. \n\n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1798,9 +1799,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 8
   indentLevel: 0
-  storyText: "\n\nAt 5, Lily\u2019s father decides to leave the family to chase his
-    dream of a real romantic life. \n\nHe leaves with a big fight and a signed divorce
-    paper, but no money or words of regret. "
+  storyText: "At 5, Lily\u2019s father decides to leave the family to chase his dream
+    of a real romantic life. \n\nHe leaves with a big fight and a signed divorce
+    paper, but no money or words of regret. \n\n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1827,9 +1828,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 7
   indentLevel: 0
-  storyText: "\n\nAt 3, life becomes unaffordable raising two kids with a high school
+  storyText: "At 3, life becomes unaffordable raising two kids with a high school
     teacher\u2019s salary, thus Lily\u2019s mother goes back to work and Lily goes
-    to pre-school. "
+    to pre-school. \n\n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1856,10 +1857,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 6
   indentLevel: 0
-  storyText: "\n\nHer mother Kathy used to be an accountant, but now is a full-time
-    mom. \n\nHer father James is a high school history teacher who has the dream
-    of being a poet. \n\nLily has a brother called Timothy, or Tim, who is two years
-    older than Lily. \n\nThe family is happy to welcome the newborn into their life. "
+  storyText: "Her mother Kathy used to be an accountant, but now is a full-time mom.
+    \n\nHer father James is a high school history teacher who has the dream of being
+    a poet. \n\nLily has a brother called Timothy, or Tim, who is two years older
+    than Lily. \n\nThe family is happy to welcome the newborn into their life. \n\n"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -1888,7 +1889,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -125.21574
     y: 63.632942
-    width: 72.795166
+    width: 71.895645
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2048,7 +2049,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -228.70918
     y: 255.97417
-    width: 98.43971
+    width: 96.61653
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2100,7 +2101,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -219.30005
     y: 315.974
-    width: 82.76804
+    width: 80.371376
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2127,7 +2128,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -228.45227
     y: 195.52945
-    width: 89.89153
+    width: 88.14079
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2830,7 +2831,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 73.55438
     y: 64.03042
-    width: 112.68669
+    width: 112.86168
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2869,7 +2870,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -61.360992
     y: 383.0949
-    width: 109.837296
+    width: 108.62381
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2896,7 +2897,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -53.25264
     y: 314.95834
-    width: 81.343346
+    width: 80.371376
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2923,7 +2924,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -69.448105
     y: 251.44423
-    width: 97.01502
+    width: 96.61653
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2950,7 +2951,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -72.370514
     y: 179.19975
-    width: 88.466835
+    width: 88.14079
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3398,7 +3399,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 438.4759
     y: 384.71518
-    width: 148.30414
+    width: 146.05829
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3425,7 +3426,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 448.63037
     y: 305.51178
-    width: 119.81018
+    width: 117.805855
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3452,7 +3453,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 444.5686
     y: 234.43172
-    width: 135.48186
+    width: 134.05101
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3479,7 +3480,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 450.66113
     y: 161.32068
-    width: 126.93367
+    width: 125.57528
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3506,7 +3507,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 602.8062
     y: 65.12558
-    width: 78.49395
+    width: 77.54613
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4084,7 +4085,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 185.31694
     y: 377.74792
-    width: 165.40051
+    width: 164.4224
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4111,7 +4112,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 193.23138
     y: 302.56
-    width: 136.90656
+    width: 136.16995
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4138,7 +4139,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 183.33838
     y: 235.28711
-    width: 152.57822
+    width: 152.4151
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4165,7 +4166,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 189.27417
     y: 168.01393
-    width: 144.03004
+    width: 143.93936
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4192,7 +4193,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 379.22162
     y: 63.14695
-    width: 95.590324
+    width: 94.49759
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4234,7 +4235,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 849.15643
     y: 157.17754
-    width: 155.42761
+    width: 153.82773
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4486,7 +4487,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 678.4202
     y: 372.51886
-    width: 115.53609
+    width: 114.2743
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4513,7 +4514,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 692.4505
     y: 301.88528
-    width: 87.04214
+    width: 86.021866
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4540,7 +4541,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 677.3478
     y: 227.74744
-    width: 102.713806
+    width: 102.26701
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4567,7 +4568,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 686.011
     y: 161.54529
-    width: 94.16563
+    width: 93.79128
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4594,7 +4595,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 874.07544
     y: 62.032654
-    width: 101.28911
+    width: 100.85439
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -4656,7 +4657,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1023.9607
     y: 62.19729
-    width: 102.713806
+    width: 102.26701
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5023,7 +5024,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1197.2859
     y: 63.174034
-    width: 115.53609
+    width: 115.68693
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5253,7 +5254,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1386.7711
     y: 64.59873
-    width: 116.960785
+    width: 117.09955
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5279,7 +5280,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1208.684
     y: 282.57782
-    width: 168.24991
+    width: 167.24762
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5306,7 +5307,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1217.2316
     y: 214.19202
-    width: 155.42761
+    width: 155.24034
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -5333,7 +5334,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1220.0808
     y: 151.5053
-    width: 146.87943
+    width: 146.76462
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6284,7 +6285,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 152, y: -543.4}
+  m_AnchoredPosition: {x: 127.48, y: -543.4}
   m_SizeDelta: {x: 832.4, y: 1100.3}
   m_Pivot: {x: 0, y: 0}
 --- !u!1 &1345393248
@@ -7837,11 +7838,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4933122844351413274, guid: 2a1d24dddbc9941a9a08a2e44f985e28, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -10
+      value: -10.01
       objectReference: {fileID: 0}
     - target: {fileID: 4933122844351413274, guid: 2a1d24dddbc9941a9a08a2e44f985e28, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.28
       objectReference: {fileID: 0}
     - target: {fileID: 4933122844351413274, guid: 2a1d24dddbc9941a9a08a2e44f985e28, type: 3}
       propertyPath: m_LocalPosition.z
